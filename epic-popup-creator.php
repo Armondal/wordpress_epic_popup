@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Epic Popup Creator
-Plugin URI: https://github.com/Armondal/wordpress_epic_popups
+Plugin URI: https://github.com/Armondal/wordpress_epic_popup
 Description: a plugin for creating popup for wordpress website
 Version: 1.0.0
 Author: Arnab
