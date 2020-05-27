@@ -1,0 +1,64 @@
+.modal-content {
+  background-color: white;
+  display: none;
+  height: fit-content;
+  padding-bottom: 0 !important;
+  line-height: 0;
+}
+
+.plainmodal .plainmodal-overlay {
+  width: 200%;
+  height: 200%;
+}
+.close-button-container {
+  padding: 0;
+  height: 0;
+}
+.close-button {
+  position: relative;
+  right: calc(-100% - 10px);
+  cursor: pointer;
+}
+
+.modal-content.modal-id-52.plainmodal-content {
+  padding: 7px;
+  color: #fff;
+  background-color: #111;
+}
+span.pop-text {
+  font-size: 36px;
+  display: inline-block;
+  /* color: #fff; */
+  font-weight: 600;
+  padding: 30px 50px 30px 5px;
+  text-transform: capitalize;
+  font-family: sans-serif;
+}
+/* span.pop-text {
+  color: black;
+} */
+a.pop-button {
+  display: inline-block;
+  padding: 20px;
+}
+.popup-text-container {
+  max-width: 700px;
+  line-height: 1.4;
+}
+.popup-text-container {
+  margin-top: -1px;
+}
+.popup-text-squre-container .pop-text {
+  font-size: 18px !important;
+  font-weight: 400;
+  padding: 10px;
+}
+
+.popup-text-squre-container a.pop-button {
+  display: inline-block;
+  padding: 10px;
+}
+.popup-text-squre-container {
+  max-width: 400px !important;
+  line-height: 1.2 !important;
+}
